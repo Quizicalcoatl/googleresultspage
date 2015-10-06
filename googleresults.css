@@ -1,0 +1,1412 @@
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.topbar1 {
+	position: static;
+	background-color: #F0F0F0;
+	width: 1282px;
+	height: 61px;
+	margin-left: -10px;
+	margin-top: -10px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #E6E6E6;
+}
+
+/* Code for Avatar */
+
+#avatar {
+	display: inline-block;
+	position: absolute;
+	margin-left: 1221px;
+	margin-top: 16px;
+}
+
+#pictureframe {
+    position: relative;
+    height: 31px;
+    width: 31px;
+    border-radius: 15px;
+    background: #666666;
+}
+
+#face {
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    border-radius: 4px;
+    background: #ffffff;
+    margin-top: -27px;
+    margin-left: 11.5px;
+}
+
+#torso {
+    position: absolute;
+    height: 14px;
+    width: 10px;
+    background: #ffffff;
+    border-radius: 5px 5px 0 0;
+    margin-top: -20px;
+    margin-left: 11px;
+}
+
+/* Code for Alerts Icon (Bell) */
+
+#alertsicon {
+    display: inline-block;
+    position: absolute;
+    margin-left: 1162px;
+    margin-top: 22px;
+}
+
+#container {
+    position: relative;
+    background: #666666;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+#crown {
+    position: absolute;
+    background: #ffffff;
+    height: 2px;
+    width: 2px;
+    border-radius: 1px;
+    margin-top: -15px;
+    margin-left: 29px;
+}
+
+#waist {
+    position: absolute;
+    background: #ffffff;
+    height: 6px;
+    width: 6px;
+    border-radius: 5px 5px 0 0;
+    margin-top: -14px;
+    margin-left: 27px;
+}
+
+#soundrim {
+    position: absolute;
+    background: #ffffff;
+    height: 1px;
+    width: 8px;
+    margin-left: 26px;
+    margin-top: -8px;
+}
+
+#clapper {
+    position: absolute;
+    background: #ffffff;
+    height: 2px;
+    width: 2px;
+    border-radius: 1px;
+    margin-left: 29px;
+    margin-top: -8px;
+}
+
+/* Code for Google Services Icon */
+
+#googleservicesicon {
+    display: inline-block;
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 1140px;
+}
+
+.toprow {
+    display: block;
+    position: static;
+    margin-bottom: -12px;
+}
+
+.middlerow {
+    display: block;
+    position: static;
+    margin-bottom: -12px;
+}
+
+.bottomrow {
+    display: block;
+    position: static;
+    margin-bottom: -12px;
+}
+
+#tl {
+	width: 4px;
+	height: 4px; 
+	margin: -1px;
+	background: #666666;
+	display: inline-block;
+}
+
+#tm {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#tr {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#ml {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#mm {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#mr {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#bl {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#bm {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+#br {
+    width: 4px;
+    height: 4px;
+    margin: -1px;
+    background: #666666;
+    display: inline-block;
+}
+
+/* Code for Username */
+
+#name {
+	font-family: sans-serif;
+	font-size: 12px;
+	color: #A1A1A1;
+	display: inline-block;
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 1093px;
+}
+
+/* Code for Search Bar */
+
+#searchbar {
+	position: absolute;
+	display: inline-block;
+	font-size: 16px;
+	width: 567px;
+	padding: 9px;
+	border-style: solid, 1px, #30A0EA;
+	margin-top: 11px;
+	margin-left: 128px;
+}
+
+/* search button */
+
+#enterbutton {
+	display: inline-block;
+	position: absolute;
+	height: 40px;
+	width: 40px;
+}
+
+#entersearchbutton {
+	position: absolute;
+	display: inline-block;
+	margin-top: 11px;
+	margin-left: 717px;
+}
+
+#buttoncontainer {
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background-color: #4285f4;
+    border-radius: 0px 2px 2px 0px;
+}
+
+#magnifierframe {
+    display: inline-block;
+    position: absolute;
+    background-color: #FFFFFF;
+    height: 11px;
+    width: 11px;
+    border-radius: 5px;
+    margin-top: 12px;
+    margin-left: 13px;
+}
+
+#magnifierglass {
+    display: inline-block;
+    position: absolute;
+    background-color: #4285f4;
+    height: 7px;
+    width: 7px;
+    border-radius: 4px;
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+#handle {
+    display: inline-block;
+    position: absolute;
+    height: 9px;
+    width: 2px;
+    background-color: #FFFFFF;
+    transform: rotate(-45deg);
+    border-radius: 1px;
+    margin-top: 19px;
+    margin-left: 24px;
+}
+
+/* speakicon */
+
+#speakicon {
+	display: inline-block;
+	position: absolute;
+	margin-left: 680px;
+	margin-top: 14px;
+}
+#base {
+    display: inline-block;
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    border-radius: 7px;
+    background-color: #FF0000;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#basecutout {
+    display: inline-block;
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: #FFFFff;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+#stem {
+    display: inline-block;
+    position: absolute;
+    height: 3px;
+    width: 2px;
+    background-color: #33CC33;
+    margin-left: 16px;
+    margin-top: 24px;
+}
+
+#microphonebackground {
+    display: inline-block;
+    position: absolute;
+    height: 16px;
+    width: 14px;
+    background-color: #FFFFFF;
+    margin-left: 10px;
+}
+#microphone {
+    display: inline-block;
+    position: absolute;
+    height: 13px;
+    width: 6px;
+    border-radius: 9px;
+    background-color: #30A0EA;
+    margin-left: 14px;
+    margin-top: 7px;
+}
+
+/* Google Logo */
+
+#logo {
+	display: inline-block;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 17px;
+	height: 40px;
+	width: 91px;
+
+}
+
+#logo img {
+	width: 99%;
+}
+
+/* Code for Top bar 2 */
+
+.topbar2 {
+	display: block;
+	position: relative;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #E6E6E6;
+	height: 59px;
+	width: 1282px;
+	margin-left: -10px;
+}
+
+/* Options button */
+
+#optionsicon {
+    display: inline-block;
+    position: absolute;
+    height: 27px;
+    width: 70px;
+    background-color: #F0F0F0;
+    margin-top: 14px;
+    margin-left: 1183px;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: #E6E6E6;
+    border-width: 1px 1px 1px 1px;
+}
+
+#gearmain {
+    display: inline-block;
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background-color: #444444;
+    margin-top: 5px;
+    margin-left: 26px;
+}
+
+#gearhole {
+    display: inline-block;
+    position: absolute;
+    height: 8px;
+    width: 8px;
+    border-radius: 4px;
+    background-color: #F0F0F0;
+    margin-top: 10px;
+    margin-left: 31px;
+}
+
+#geardivit1 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 3px;
+    margin-left: 38px;
+}
+
+#geardivit2 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 11px;
+    margin-left: 42px;
+}
+
+#geardivit3 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 19px;
+    margin-left: 38px;
+}
+
+#geardivit4 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 19px;
+    margin-left: 27px;
+}
+
+#geardivit5 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 11px;
+    margin-left: 22px;
+}
+
+#geardivit6 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    background-color: #F0F0F0;
+    margin-top: 3px;
+    margin-left: 27px;
+}
+
+/* Code for Public/Private Results Toggle */
+
+#publictoggle {
+	display: inline-block;
+	position: absolute;
+	height: 27px;
+	width: 42px;
+	background-color: #F0F0F0;
+    margin-top: 14px;
+    margin-left: 1123px;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    border-width: 1px 1px 1px 1px;
+}
+
+#publicresults {
+	display: inline-block;
+	position: absolute;
+	height: 13px;
+	width: 13px;
+	border-radius: 7px;
+	background-color: #F0F0F0;
+	margin-top: 6px;
+	margin-left: 13px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #B2B2B2;
+}
+
+#continent1 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 4px;
+    border-radius: 1px 2px 4px 1px;
+    background-color: #B2B2B2;
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
+#continent2 {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 4px;
+    border-radius: 0px 2px 0px 2px;
+    background-color: #B2B2B2;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+#continent3 {
+    display: inline-block;
+    position: absolute;
+    height: 4px;
+    width: 6px;
+    border-radius: 3px 1px 2px 1px;
+    background-color: #B2B2B2;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+#continent4 {
+    display: inline-block;
+    position: absolute;
+    height: 2px;
+    width: 4px;
+    border-radius: 3px 1px 1px 1px;
+    background-color: #B2B2B2;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+#continent5 {
+    display: inline-block;
+    position: absolute;
+    height: 3px;
+    width: 4px;
+    border-radius: 1px 3px 3px 1px;
+    background-color: #B2B2B2;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+#privatetoggle {
+    display: inline-block;
+    position: absolute;
+    height: 27px;
+    width: 42px;
+    background-color: #D8D8D8;
+    margin-top: 14px;
+    margin-left: 1079px;
+    border-radius: 1px;
+    border-style: solid;
+    border-color: #B2B2B2;
+    border-width: 1px 1px 1px 1px;
+}
+
+#head {
+    display: inline-block;
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-radius: 3px;
+    margin-top: 7px;
+    margin-left: 18px;
+    background-color: #444444;
+}
+
+#shoulders {
+    display: inline-block;
+    position: absolute;
+    height: 5px;
+    width: 12px;
+    border-radius: 4px 4px 0px 0px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: #444444;
+}
+
+/* Code for Topbar2 Left Side Options */
+
+.top2left {
+    a:link {
+        color: #828282;
+    }
+    a:visited {
+        color: #828282;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+#searchtools {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 565px;
+    margin-top: 8px;
+}
+
+#more {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 495px;
+    margin-top: 8px;
+}
+
+#images {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 421px;
+    margin-top: 8px;
+}
+
+#news {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 356px;
+    margin-top: 8px;
+}
+
+#shopping {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 269px;
+    margin-top: 8px;
+}
+
+#videos {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 197px;
+    margin-top: 8px;
+}
+
+#web {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #4285f4;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 138px;
+    margin-top: 7px;
+}
+
+#webunderline {
+    display: inline-block;
+    position: absolute;
+    height: 3px;
+    width: 43px;
+    background-color: #4285f4;
+    margin-left: 130px;
+    margin-top: 56px;
+    border-width: 0px;
+
+}
+
+#resultspeed {
+    display: inline-block;
+    position: absolute;
+    font-family: sans-serif;
+    color: #828282;
+    font-size: 13px;
+    margin-left: 128px;
+    margin-top: 1px;
+}
+
+/* Code for Results */
+
+.resultitems {
+    display: inline-block;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 49px;  
+
+}
+
+h3 {
+    color: #1a0dab;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+    font-family: arial, sans-serif;
+    margin: 0;
+}
+
+td p1 {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #006621;
+    line-height: 15px;
+    margin-bottom: 0;
+
+}
+
+td p {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #545454;
+    line-height: 18px;
+    margin-top: 0;
+    margin-bottom: 21px;
+}
+
+#relatedsearches {
+    position: absolute;
+    display: block;
+    height: 155px;
+    width: 522px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #808080;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #808080;
+    margin-top: 1065px;
+    margin-left: 125px;
+}
+
+#relatedsearches th {
+    font-family: arial, sans-serif;
+    color: #808080;
+    font-size: 18px;
+    font-weight: normal;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+#relatedsearches td {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #1a0dab;
+    padding-bottom: 7px;
+    padding-right: 9px;
+}
+
+#footer1 {
+    position: absolute;
+    display: inline-block;
+    height: 168px;
+    margin-top: 1250px;
+    border-bottom: solid;
+}
+
+#googlelonglogo {
+    position: relative;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 229px;
+}
+
+#gcircle {
+    height: 28px;
+    width: 28px;
+    background: #4285f4;
+    border-radius: 14px;
+}
+
+#ghole {
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 4px;
+    height: 20px;
+    width: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+#gspace {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 6px;
+    height: 8px;
+    width: 8px;
+    background: #ffffff;
+    transform: rotate(-45deg);
+}
+
+#gbar {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 12px;
+    height: 4px;
+    width: 12px;
+    background: #4285f4
+}
+
+#o1out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 29px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: red;
+}
+
+#o2out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 48px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o3out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 67px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o4out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 86px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o5out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 105px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o6out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 124px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o7out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 143px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o8out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 162px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o9out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 181px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o10out {
+    display: inline-block;
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 200px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #FFCC00;
+}
+
+#o1hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 32px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o2hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 51px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o3hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 70px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o4hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 89px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o5hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 108px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o6hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 127px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o7hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 146px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o8hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 165px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o9hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 184px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#o10hole {
+    display: inline-block;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 203px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#littlegcircle {
+    position: absolute;
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    background: #4285f4;
+    border-radius: 9px;
+    margin-left: 220px;
+    margin-top: -18px;
+}
+
+#gdownbar {
+    display: inline-block;
+    position: absolute;
+    margin-left: 235px;
+    margin-top: -17px;
+    height: 30px;
+    width: 3px;
+    background: #4285f4;
+    border-radius: 10px;
+}
+
+#littleghole {
+    position: absolute;
+    display: inline-block;
+    margin-left: 223px;
+    margin-top: -15px;
+    border-radius: 6px;
+    height: 12px;
+    width: 12px;
+    background: #ffffff;
+}
+
+#gloop {
+    position: absolute;
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: -4px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: #4285f4;
+}
+
+#gspace1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: -4px;
+    margin-left: 0px;
+    height: 8px;
+    width: 15px;
+    background: #ffffff;
+}
+
+#gspace2 {
+    position: absolute;
+    display: inline-block;
+    margin-top: -1px;
+    margin-left: 3px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#gloopfix {
+    position: absolute;
+    display: inline-block;
+    margin-left: 220px;
+    margin-top: 4px;
+}
+
+#l {
+    position: absolute;
+    display: inline-block;
+    margin-top: -28px;
+    margin-left: 241px;
+    height: 28px;
+    width: 3px;
+    background: #33CC33;
+}
+
+#ecircle {
+    position: absolute;
+    display: inline-block;
+    margin-top: -18px;
+    margin-left: 246px;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    background: red;
+}
+
+#ehole {
+    position: absolute;
+    display: inline-block;
+    margin-top: -15px;
+    margin-left: 249px;
+    height: 12px;
+    width: 12px;
+    border-radius: 6px;
+    background: #ffffff;
+}
+
+#ebar {
+    position: absolute;
+    display: inline-block;
+    margin-top: -11px;
+    margin-left: 247px;
+    height: 3px;
+    width: 15px;
+    transform: rotate(-30deg);
+    background: red;
+}
+
+#egap {
+    position: absolute;
+    display: inline-block;
+    margin-top: -13px;
+    margin-left: 260px;
+    height: 8px;
+    width: 7px;
+    transform: rotate(-38deg);
+    background: #ffffff;
+}
+
+#diamond {
+    position: absolute;
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 290px;
+    height: 10px;
+    width: 10px;
+    transform: rotate(45deg);
+    background: #4285f4;
+}
+
+#diamondhole {
+    position: absolute;
+    display: inline-block;
+    margin-top: -19px;
+    margin-left: 289px;
+    height: 8px;
+    width: 8px;
+    transform: rotate(45deg);
+    background: #ffffff;
+}
+
+#pagenumbers {
+    position: absolute;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 229px;
+}
+
+#page1 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 34px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page2 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 53px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page3 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 72px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page4 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 91px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page5 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 110px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page6 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 130px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page7 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 149px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page8 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 168px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page9 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 187px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#page10 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 201px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+#nextpage {
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 281px;
+    color: #4285f4;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+.footer2 {
+    position: absolute;
+    display: inline-block;
+    background: #F0F0F0;
+    height: 85px;
+    width: 1282px;
+    margin-top: 1358px;
+    margin-left: -10px;
+    border-top-style: solid;
+    border-top-color: #E6E6E6;
+    border-top-width: 1px;
+}
+
+#footercircle {
+    position: absolute;
+    display: inline-block;
+    background: #9A9FA4;
+    height: 11px;
+    width: 11px;
+    border-radius: 6px;
+    margin-top: 23px;
+    margin-left: 135px;
+}
+
+#location {
+    position: absolute;
+    display: inline-block;
+    color: #9A9FA4;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 21px;
+    margin-left: 150px;
+}
+
+#locationinfo {
+    position: absolute;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 21px;
+    margin-left: 450px;
+}
+
+#footer2line2 {
+    position: absolute;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 135px;
+}
+
+#help {
+    position: absolute;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+#sendfeedback {
+    position: absolute;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 57px;
+    white-space: nowrap;
+}
+
+#privacy {
+    position: absolute;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 175px;
+}
+
+#terms {
+    position: absolute;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 248px;
+}
